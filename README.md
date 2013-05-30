@@ -22,6 +22,7 @@ Add the following two lines to your .bashrc:
 
 That would source:
 
+    ~/.jereksource/autoload/*
     ~/.jereksource/env/local
     ~/.jereksource/tools/misc
     ~/.jereksource/tools/git/common

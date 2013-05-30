@@ -11,6 +11,7 @@
 # jerekSource 'env:local;tools:misc,git/common,vagrant;sites:main'
 #
 # That would source:
+# ~/.jereksource/autoload/*
 # ~/.jereksource/env/local
 # ~/.jereksource/tools/misc
 # ~/.jereksource/tools/git/common
