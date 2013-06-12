@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Script: Jerek Source
 # Author: Jerek Dain
 # Email:  jerek@jerek.net
@@ -7,7 +9,7 @@
 # git clone git@github.com:jerek/jerek-source.git ~/.jereksource
 #
 # Example usage: Add the following two lines to your .bashrc:
-# source ~/.jereksource/loader
+# source ~/.jereksource/loader.sh
 # jerekSource 'env:local;tools:misc,git/common,vagrant;sites:main'
 #
 # That would source:
